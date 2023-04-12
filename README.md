@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Me chamo Murilo Goedert</h1>
 <h3 align="center">Desenvolvedor Web viciado em programação e tecnologia!</h3>
 
-- 🔭 Atualmente trabalho como desenvolvedor Full Stack na **IPM Sistemas**
+- 🔭 Atualmente trabalho como Analista de Sistemas na [IPM Sistemas](https://www.ipm.com.br)
 
 - 📫 Contato **murilogoedert@gmail.com**
 
