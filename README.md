@@ -1,5 +1,6 @@
 # 💫 Sobre mim:
-🔭 Atualmente trabalho como desenvolvedor full-stack utilizando NestJS e Angular, e outras tecnologias como MongoDB, VueJS, AWS, dentro outros. <br>🌱 Estou estudando Rust, VueJS e Flutter.
+🔭 Atualmente trabalho como desenvolvedor full-stack utilizando NestJS e Angular.
+🎓 Sou formado em Engenharia de Software pela UDESC - CEAVI
 
 
 # 💻 Tech Stack:
